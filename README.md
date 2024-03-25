@@ -2,6 +2,8 @@
 
 This project is a React frontend application developed for a car service company to manage their workflow and data visualization. The dashboard allows users to navigate through the workflow using a flow structure designed using ReactFlow. Additionally, Firebase is used to link the dashboard data, enabling real-time updates and data management.
 
+[![Edit BiswajeetRaut/Lizmotors/main](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/github/BiswajeetRaut/Lizmotors/main?import=true&embed=1)
+
 ## Features
 
 - Flow structure design using ReactFlow for intuitive navigation.
