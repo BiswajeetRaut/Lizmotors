@@ -1,0 +1,80 @@
+.dataload{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: #00000066;
+    z-index: 1000;
+}
+.data{
+    height: max-content;
+    width: 50%;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 0 0 11px rgba(0,0,0,0.5);
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    padding: 10px;
+}
+.cross{
+    align-self: flex-end;
+}
+.bar{
+    width: 70%;
+    height: 30px;
+    border: 1px solid black;
+}
+.datadiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: max-content;
+    width: 90%;
+    gap: 30px;
+}
+.b{
+    height: 100%;
+    background: green;
+}
+.modal{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    height: max-content;
+}
+.updatebtn{
+    display: flex;
+    gap:10px;
+}
+.updatebtn>button{
+    padding: 10px;
+    border: none;
+    background: green;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.options{
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+}
+.options >button{
+    padding: 10px;
+    border: none;
+    background: green;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
