@@ -23,7 +23,7 @@ To run the project locally, follow these steps:
 4. Run the development server:
 ``` npm run dev```
 
-5. Open your browser and navigate to `http://localhost:3000` to view the dashboard.
+5. Open your browser and navigate to `http://localhost:5173/` to view the dashboard.
 
 ## Usage
 
